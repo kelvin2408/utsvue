@@ -1,0 +1,83 @@
+{
+  "Jacket": [
+    {
+      "name": "Jacket 1",
+      "price": "10.000"
+    },
+    {
+      "name": "Jacket 2",
+      "price": "15.000"
+    },
+    {
+      "name": "Jacket 3",
+      "price": "20.000"
+    },
+    {
+      "name": "Jacket 4",
+      "price": "25.000"
+    },
+    {
+      "name": "Jacket 5",
+      "price": "30.000"
+    },
+    {
+      "name": "Jacket 6",
+      "price": "35.000"
+    }
+  ],
+  "T-shirts": [
+    {
+      "name": "T-shirts 1",
+      "price": "10.000"
+    },
+    {
+      "name": "T-shirts 2",
+      "price": "15.000"
+    },
+    {
+      "name": "T-shirts 3",
+      "price": "20.000"
+    },
+    {
+      "name": "T-shirts 4",
+      "price": "25.000"
+    },
+    {
+      "name": "T-shirts 5",
+      "price": "30.000"
+    },
+    {
+      "name": "T-shirts 6",
+      "price": "35.000"
+    }
+  ],
+  "Sneakers": [
+    {
+      "name": "Sneakers 1",
+      "price": "10.000"
+    },
+    {
+      "name": "Sneakers 2",
+      "price": "15.000"
+    },
+    {
+      "name": "Sneakers 3",
+      "price": "20.000"
+    },
+    {
+      "name": "Sneakers 4",
+      "price": "25.000"
+    },
+    {
+      "name": "Sneakers 5",
+      "price": "30.000"
+    },
+    {
+      "name": "Sneakers 6",
+      "price": "35.000"
+    }
+  ],
+  "test": {
+    "name": "test"
+  }
+}
