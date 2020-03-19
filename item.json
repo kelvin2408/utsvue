@@ -25,29 +25,29 @@
       "price": "35.000"
     }
   ],
-  "T-shirts": [
+  "Tshirts": [
     {
-      "name": "T-shirts 1",
+      "name": "Tshirts 1",
       "price": "10.000"
     },
     {
-      "name": "T-shirts 2",
+      "name": "Tshirts 2",
       "price": "15.000"
     },
     {
-      "name": "T-shirts 3",
+      "name": "Tshirts 3",
       "price": "20.000"
     },
     {
-      "name": "T-shirts 4",
+      "name": "Tshirts 4",
       "price": "25.000"
     },
     {
-      "name": "T-shirts 5",
+      "name": "Tshirts 5",
       "price": "30.000"
     },
     {
-      "name": "T-shirts 6",
+      "name": "Tshirts 6",
       "price": "35.000"
     }
   ],
